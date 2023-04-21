@@ -1,0 +1,35 @@
+Space Consult Project:Almond Media, Uk.
+This project was made up of 8 team members (
+	4 business Analyst lead by Me as the Lead BA
+	3 Project Managers
+	1 Developer)
+and we conducted the following taskes as B.As to deliver our product:
+
+1. Conducted Gap Analysis for the client (Name Withheld)
+2. Created a Project Scope Document
+3. Prepared a Requirement gathering workshop agenda and held a requirement
+   workshop with team members, the Client and other stakeholders.
+   From the Requirement Gathering, we came up with the;
+	i. High level requirements (HLRs), and Low level Requirements (LLRs) with their appropriate priority.
+	ii. User Stories and acceptance criteria.
+	iii. BA work Plan for the project.
+4. created and constantly updated the Trello board with signed off documents
+5. Conducted SWOT analysis
+6. Created a Process Map
+7. Created Wireframes for the website design following the HLRs and LLRs
+8. Created a Business Model Canvas
+9. Updated the Developer and Tester and supported them in interpreting the user requirement
+   to be developed into codes.
+
+Other weekly activities carried out to ensure the success of the project includes but not linmited to;
+10. Weekly meetings with the team and the project supervisor for assessment and sign offs.
+11. weekly sprint meeting with the developement team and Testers
+12. Ensured the developer runs a Demo at every sprint meeting to access the progress of the development team.
+13. Updated the Trello board and the BA work plan on a weekly basis
+14. Ensured that the tester conducts a Use Acceptance Test (UAT) after every sprint DEMO until our Minimum Viable 
+    Product was achieved.
+
+Below is a link to our minimum viable product for a Multi-Vendor commercial website that that sold household and kitchen utensils
+
+Space Consult project link
+https://spaceconsult.thealmondprojects.com/product/dinglilighting-dllt-modern-reading-floor-lamp-3-light-with-adjustable-flexible-gooseneck-tree-standing-lamp-for-living-room-bedroom-study-room-office-black-metal-white-shades-e26-base/
