@@ -1,6 +1,6 @@
-Space Consult Project:Almond Media, Uk.
+** Space Consult Project:Almond Media, Uk.
 This project was made up of 8 team members (
-	4 business Analyst lead by Me as the Lead BA
+	4 business Analyst led by Me as the Lead BA
 	3 Project Managers
 	1 Developer)
 and we conducted the following taskes as B.As to deliver our product:
